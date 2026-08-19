@@ -89,9 +89,9 @@ I'm always interested in **software engineering, AI, backend systems, open-sourc
 
 📧 **Email:** [mohitranjan61@gmail.com](mailto:mohitranjan61@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohit-ranjan61)
 
-🌐 **Portfolio:** [Visit my website](YOUR_PORTFOLIO_URL)
+🌐 **Portfolio:** [Visit my website](https://my-portfolio-nu-nine-51.vercel.app)
 
 ---
 
